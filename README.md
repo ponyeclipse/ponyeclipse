@@ -1,9 +1,7 @@
 <h1 align="center">Salut 👋, Je suis PonyEclipse</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Petit développeur en python !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ponyeclipse&label=Vues%20du%20profil&color=2347b3&style=flat" alt="ponyeclipse" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ponyeclipse" alt="ponyeclipse" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ponyeclipsemc" target="blank"><img src="https://img.shields.io/twitter/follow/ponyeclipsemc?logo=twitter&style=for-the-badge" alt="ponyeclipsemc" /></a> </p>
 
