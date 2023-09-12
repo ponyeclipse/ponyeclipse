@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ponyeclipsemc" target="blank"><img src="https://img.shields.io/twitter/follow/ponyeclipsemc?logo=twitter&style=for-the-badge" alt="ponyeclipsemc" /></a> </p>
 
-- 🔭 Je travaille sur **ReadyToTravel**
+- 🔭 Je travaille sur **MerossControlInterface** (MCI)
 
 <h3 align="left">Mes réseaux:</h3>
 <p align="left">
